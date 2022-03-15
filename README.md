@@ -1,1 +1,1 @@
-# demo1 this is the instruction mannual 
+ This is the instruction mannual to the project
